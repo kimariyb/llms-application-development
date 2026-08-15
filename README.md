@@ -1,1 +1,3 @@
-# qwen-text-classification
+# 大模型技术开发与应用实战项目
+
+
